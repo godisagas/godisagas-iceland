@@ -1,0 +1,3 @@
+[submodule "iceland/diary/themes/hugo-blog-awesome"]
+	path = iceland/diary/themes/hugo-blog-awesome
+	url = https://github.com/hugo-sid/hugo-blog-awesome.git
