@@ -1,2 +1,5 @@
-# godisagas-public
-Public godisagas resources
+# godisagas-iceland
+
+Goði Sagas: Ísland public repository
+
+Forge Your Legacy in Medieval Iceland!
