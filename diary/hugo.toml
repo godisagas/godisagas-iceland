@@ -7,7 +7,7 @@ languageCode = 'en-us'
 # This defines how dates are formatted
 defaultContentLanguage = "en"
 
-summaryLength = 10
+summaryLength = 6
 
 # Enable emojis globally
 enableEmoji = true
@@ -71,9 +71,9 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Goði Sagas: Ísland - Diary"
+  description = "Official diary for Goði Sagas: Ísland. Be updated about latest news and discover details about the game's design, features, and the journey of bringing it to life."
   mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
+  toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   # additionalScripts = ['js/custom.js', 'js/custom-2.js']
@@ -93,7 +93,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "News"
   name = "Goði Sagas"
-  description = "Goði Sagas: Ísland blog"
+  description = "Welcome to the official diary for Goði Sagas: Ísland. Discover details about the game's design, features, and the journey of bringing it to life."
 
 # Allow to override webmanifest options
 [Languages.en.params.webmanifest]
@@ -105,74 +105,11 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   display = "standalone"
 
 
-############################## Spanish language ################################
-[Languages.es]
-  languageName = "Spanish"
-  languageCode = "es"
-  contentDir = "content/es"
-  weight = 2
-  [Languages.es.menu]
-  [[Languages.es.menu.main]]
-    # The page reference (pageRef) is useful for menu highlighting
-    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
-    pageRef="/"
-    name = 'Inicio'
-    url = '/'
-    weight = 10
-  [[Languages.es.menu.main]]
-    pageRef="posts"
-    name = 'Artículos'
-    url = '/posts/'
-    weight = 20
-  [[Languages.es.menu.main]]
-    pageRef="about"
-    name = 'Acerca de'
-    url = '/about/'
-    weight = 30
-
-[Languages.es.params]
-  sitename = "Goði Sagas: Ísland - Diario"
-  defaultColor = "dark" # set color mode: dark, light, auto
-  # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
-  # the default value is set to 'auto'.
-  # You can take a look at layouts/index.html for more information.
-  description = "Goði Sagas: Ísland - Diario"
-  mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
-  tocOpen = false # set to true to open table of contents by default
-  goToTop = true # set to false to disable 'go to top' button
-  additionalScripts = ['js/custom.js', 'js/custom-2.js']
-  # Will try to load 'assets/js/custom.js' and 'assets/js/custom-2.js'.
-  # Your custom scripts will be concatenated to one file `custom.js`.
-  # When building for production it will be minified.
-  # The file `custom.js` is loaded on each page (before body tag ends).
-  dateFormat = "2 January 2006" # default date format used on various pages
-  # See https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference for available date formats.
-  rssFeedDescription = "summary" # available options: 1) summary 2) full
-  # summary - includes a short summary of the blog post in the RSS feed. Generated using Hugo .Summary .
-  # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
-  # By default (or if nothing is specified), summary is used.
-
-[Languages.es.params.author]
-  avatar = "logo-200px.png" # put the file in assets folder; also ensure that image has same height and width
-  # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Novedades"
-  name = "Goði Sagas"
-  description = "Blog de Goði Sagas: Ísland"
-
-# Allow to override webmanifest options
-[Languages.es.params.webmanifest]
-  name = "sitename" # will use "params.sitename" or "title" by default
-  short_name = "sitename" # same as name
-  start_url = "/" # will use homepage url by default
-  theme_color = "#434648" # default is "#434648" (base color of text). Also will override html `<meta name="theme-color" />`
-  background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
-  display = "standalone"
-
-
 ###################################################################
 
-
+[params]
+  toc = false
+  tocOpen = false
 
 # Allow to override `browserconfig.xml` params (configuration for windows embedded browsers)
 [params.browserconfig]
