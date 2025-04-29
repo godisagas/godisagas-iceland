@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://godisagas.github.io/godisagas-iceland/es/categories/</loc>
+    <loc>http://localhost:1313/godisagas-iceland/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://godisagas.github.io/godisagas-iceland/categories/"
+                href="http://localhost:1313/godisagas-iceland/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://godisagas.github.io/godisagas-iceland/es/categories/"
+                href="http://localhost:1313/godisagas-iceland/es/categories/"
                 />
   </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/es/</loc>
+    <loc>http://localhost:1313/godisagas-iceland/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://godisagas.github.io/godisagas-iceland/"
+                href="http://localhost:1313/godisagas-iceland/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://godisagas.github.io/godisagas-iceland/es/"
+                href="http://localhost:1313/godisagas-iceland/es/"
                 />
   </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/es/tags/</loc>
+    <loc>http://localhost:1313/godisagas-iceland/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://godisagas.github.io/godisagas-iceland/tags/"
+                href="http://localhost:1313/godisagas-iceland/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://godisagas.github.io/godisagas-iceland/es/tags/"
+                href="http://localhost:1313/godisagas-iceland/es/tags/"
                 />
   </url>
 </urlset>

@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://godisagas.github.io/godisagas-iceland/en/sitemap.xml</loc>
-    
-      <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://godisagas.github.io/godisagas-iceland/es/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://godisagas.github.io/godisagas-iceland/tags/announcement/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/tags/development/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/posts/2025-04-28-blog-site-launch/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/posts/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/tags/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/posts/2025-03-01-initial-ui/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/posts/2025-02-01-dev-diary-game-map/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/posts/2025-01-15-basic-map-editor/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/pages/about/</loc>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/categories/</loc>
+  </url><url>
+    <loc>https://godisagas.github.io/godisagas-iceland/pages/</loc>
+  </url>
+</urlset>

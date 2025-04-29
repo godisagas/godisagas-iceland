@@ -6,16 +6,49 @@
     <description>Recent content in Home on Goði Sagas: Ísland - Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://godisagas.github.io/godisagas-iceland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://godisagas.github.io/godisagas-iceland/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New diary site</title>
-      <link>https://godisagas.github.io/godisagas-iceland/posts/2025-04-27-new-diary/</link>
-      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <title>New Diary Launched for Goði Sagas</title>
+      <link>https://godisagas.github.io/godisagas-iceland/posts/2025-04-28-blog-site-launch/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://godisagas.github.io/godisagas-iceland/posts/2025-04-27-new-diary/</guid>
+      <guid>https://godisagas.github.io/godisagas-iceland/posts/2025-04-28-blog-site-launch/</guid>
       
-      <description>&lt;p&gt;This is the first paragraph.&lt;/p&gt;
-&lt;p&gt;This is the second paragraph.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Greetings, travelers!&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re excited to announce the launch of our new blog for Goði Sagas: Ísland. This will be the place where we share news, updates, and insights into the development of the game.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Dev Diary: Initial UI Framework for Goði Sagas: Ísland</title>
+      <link>https://godisagas.github.io/godisagas-iceland/posts/2025-03-01-initial-ui/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://godisagas.github.io/godisagas-iceland/posts/2025-03-01-initial-ui/</guid>
+      
+      <description>&lt;p&gt;This week, we&amp;rsquo;re providing an update on the initial stages of developing the user interface (UI) for Goði Sagas: Ísland. This is a very early, basic version – an MVP (Minimum Viable Product) – that is currently for internal development purposes only. It is not yet ready for any external testing.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Dev Diary: Designing the Strategic Map of Ísland</title>
+      <link>https://godisagas.github.io/godisagas-iceland/posts/2025-02-01-dev-diary-game-map/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://godisagas.github.io/godisagas-iceland/posts/2025-02-01-dev-diary-game-map/</guid>
+      
+      <description>&lt;p&gt;This week, we&amp;rsquo;re diving into the design of the game map for Goði Sagas: Ísland. Our focus is on creating a clear and strategically rich representation of medieval Iceland using a 2D hexagonal tile system within your browser.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Dev Diary: Building Our Internal Map Editor for Faster Iteration</title>
+      <link>https://godisagas.github.io/godisagas-iceland/posts/2025-01-15-basic-map-editor/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://godisagas.github.io/godisagas-iceland/posts/2025-01-15-basic-map-editor/</guid>
+      
+      <description>&lt;p&gt;This week, we&amp;rsquo;re excited to share some insights into a crucial tool we&amp;rsquo;ve developed behind the scenes: a basic map editor for Goði Sagas: Ísland. This internal tool is designed to significantly speed up our development process as we build the world of Ísland.&lt;/p&gt;</description>
       
     </item>
     

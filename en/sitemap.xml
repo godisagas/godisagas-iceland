@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://godisagas.github.io/godisagas-iceland/tags/announcement/</loc>
+    <loc>http://localhost:1313/godisagas-iceland/tags/announcement/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/tags/development/</loc>
+    <loc>http://localhost:1313/godisagas-iceland/tags/development/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://godisagas.github.io/godisagas-iceland/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://godisagas.github.io/godisagas-iceland/"
-                />
-  </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/posts/2025-04-27-new-diary/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/posts/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/tags/</loc>
+    <loc>http://localhost:1313/godisagas-iceland/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://godisagas.github.io/godisagas-iceland/es/tags/"
+                href="http://localhost:1313/godisagas-iceland/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://godisagas.github.io/godisagas-iceland/tags/"
+                href="http://localhost:1313/godisagas-iceland/"
                 />
   </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/pages/about/</loc>
+    <loc>http://localhost:1313/godisagas-iceland/posts/2025-04-27-new-diary/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/categories/</loc>
+    <loc>http://localhost:1313/godisagas-iceland/posts/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/godisagas-iceland/tags/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://godisagas.github.io/godisagas-iceland/es/categories/"
+                href="http://localhost:1313/godisagas-iceland/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://godisagas.github.io/godisagas-iceland/categories/"
+                href="http://localhost:1313/godisagas-iceland/tags/"
                 />
   </url><url>
-    <loc>https://godisagas.github.io/godisagas-iceland/pages/</loc>
+    <loc>http://localhost:1313/godisagas-iceland/pages/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/godisagas-iceland/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/godisagas-iceland/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/godisagas-iceland/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/godisagas-iceland/pages/</loc>
   </url>
 </urlset>
