@@ -10,7 +10,7 @@ Forge Your Legacy in Medieval Iceland!
 cd diary
 hugo
 cd ..
-cd checkout gh-pages
+git checkout gh-pages
 cp -r diary/public/* .
 rm -rf diary
 ```
